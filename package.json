@@ -1,0 +1,22 @@
+{
+  "name": "shadowizard-test-docks",
+  "version": "1.0.0",
+  "description": "Add shadows in your images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DocksDocks/shadowizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Eduardo Marquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DocksDocks/shadowizard/issues"
+  },
+  "homepage": "https://github.com/DocksDocks/shadowizard#readme"
+}
